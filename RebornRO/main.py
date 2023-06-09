@@ -4,7 +4,7 @@ import pygame
 pygame.init()
 
 # Création de la fenêtre de jeu
-largeur_fenetre = 900
+largeur_fenetre = 800
 hauteur_fenetre = 600
 fenetre = pygame.display.set_mode((largeur_fenetre, hauteur_fenetre))
 pygame.display.set_caption("Ragnarok Online")
